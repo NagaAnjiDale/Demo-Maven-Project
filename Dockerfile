@@ -1,5 +1,5 @@
 # use a node base image
-FROM node:7-onbuild
+FROM nginx
 
 # set maintainer
 LABEL maintainer "150201579@svuca.edu"
