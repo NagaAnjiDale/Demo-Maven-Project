@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.reflectoring.mavenproject</groupId>
-	<artifactId>Demo-Maven-Project</artifactId>
+	<artifactId>demo-maven-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Demo-Maven-Project</name>
 	<description>Demo project for Spring Boot Maven Application Info</description>
